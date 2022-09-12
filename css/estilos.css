@@ -1,0 +1,28 @@
+/*font-family: 'Atma', cursive;
+font-family: 'Roboto', sans-serif;
+*/
+
+:root{
+    --fontmain: 'Atma', cursive;
+    --fontsecundary: 'Roboto', sans-serif;
+}
+
+.nav-link{
+    font-family: var(--fontmain);
+}
+
+.display-3{
+    font-family: var(--fontmain);
+}
+
+.lead{
+    font-family: var(--fontsecundary);
+}
+
+.card-title{
+    font-family: var(--fontsecundary);
+}
+
+
+
+
